@@ -75,14 +75,3 @@ Email: rohithkannambadi.mahendra@sjsu.edu
 
 ---
 
-## 📢 Citation
-
-If you use or reference this work, please cite:
-
-> Rohith K. Mahendra, *Built-In Video Narration in Google Slides – A UX & Product Strategy Case Study*, 2025.
-
----
-
-## 🔗 License
-
-This work is provided under the MIT License. See `LICENSE` file for more details.
