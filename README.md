@@ -17,7 +17,8 @@ Google Slides lacks a built-in mechanism to record and attach video narrations p
 ---
 
 ## 📁 Files Included
-### 1. [`A Case Study for Video Narration in Google Slides.pdf`]([./A%20Case%20Study%20for%20Video%20Narration%20in%20Google%20Slides.pdf](https://github.com/Rohith070820/google-slides-video-narration-case-study/blob/main/A%20Case%20Study%20for%20Video%20Narration%20in%20Google%20Slides%20.pdf))
+
+### 1. [**A Case Study for Video Narration in Google Slides.pdf**](https://github.com/Rohith070820/google-slides-video-narration-case-study/blob/main/A%20Case%20Study%20for%20Video%20Narration%20in%20Google%20Slides%20.pdf)
 - **Main case study document** outlining the entire problem-solution cycle.
 - Includes problem statement, proposed feature design, mockups, competitor benchmarking (Kano and RICE models), and product development strategy.
 
