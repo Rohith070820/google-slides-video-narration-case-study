@@ -17,19 +17,19 @@ Google Slides lacks a built-in mechanism to record and attach video narrations p
 ---
 
 ## 📁 Files Included
-### 1. [`A Case Study for Video Narration in Google Slides.pdf`](./A%20Case%20Study%20for%20Video%20Narration%20in%20Google%20Slides.pdf)
+### 1. [`A Case Study for Video Narration in Google Slides.pdf`]([./A%20Case%20Study%20for%20Video%20Narration%20in%20Google%20Slides.pdf](https://github.com/Rohith070820/google-slides-video-narration-case-study/blob/main/A%20Case%20Study%20for%20Video%20Narration%20in%20Google%20Slides%20.pdf))
 - **Main case study document** outlining the entire problem-solution cycle.
 - Includes problem statement, proposed feature design, mockups, competitor benchmarking (Kano and RICE models), and product development strategy.
 
-### 2. [`Case Study Interpretation - Built-In Video Narration Feature for Google Slides.pdf`](./Case%20Study%20Interpretation-%20Built-In%20Video%20Narration%20Feature%20for%20Google%20Slides.pdf)
+### 2. [`Case Study Interpretation - Built-In Video Narration Feature for Google Slides.pdf`]([./Case%20Study%20Interpretation-%20Built-In%20Video%20Narration%20Feature%20for%20Google%20Slides.pdf](https://github.com/Rohith070820/google-slides-video-narration-case-study/blob/main/Case%20Study%20Interpretation-%20Built-In%20Video%20Narration%20Feature%20for%20Google%20Slides.pdf))
 - **Survey analysis report** with visualized results and interpretations.
 - Breaks down user behavior, pain points, feature expectations, and likelihood of adoption based on quantitative responses from 40+ participants.
 
-### 3. [`Exploring a New Feature - Built-In Video Narration in Google Slides - Google Forms.pdf`](./Exploring%20a%20New%20Feature_%20Built-In%20Video%20Narration%20in%20Google%20Slides%20-%20Google%20Forms.pdf)
+### 3. [`Exploring a New Feature - Built-In Video Narration in Google Slides - Google Forms.pdf`]([./Exploring%20a%20New%20Feature_%20Built-In%20Video%20Narration%20in%20Google%20Slides%20-%20Google%20Forms.pdf](https://github.com/Rohith070820/google-slides-video-narration-case-study/blob/main/Exploring%20a%20New%20Feature_%20Built-In%20Video%20Narration%20in%20Google%20Slides%20-%20Google%20Forms.pdf))
 - **Original Google Form used** to gather feedback.
 - Captures how questions were framed to explore user preferences, expectations, and frustrations.
 
-### 4. [`Exploring a New Feature - Built-In Video Narration in Google Slides.csv`](./Exploring%20a%20New%20Feature:%20Built-In%20Video%20Narration%20in%20Google%20Slides.csv)
+### 4. [`Exploring a New Feature - Built-In Video Narration in Google Slides.csv`]([./Exploring%20a%20New%20Feature:%20Built-In%20Video%20Narration%20in%20Google%20Slides.csv](https://github.com/Rohith070820/google-slides-video-narration-case-study/blob/main/Exploring%20a%20New%20Feature%3A%20Built-In%20Video%20Narration%20in%20Google%20Slides.csv))
 - **Raw survey data** exported from the Google Form.
 - Enables transparency and allows further data analysis if needed.
 
